@@ -7,7 +7,7 @@ module.exports = function(defaults) {
     // Add options here
   });
 
-  app.import('node_modules/axios/index.js', {
+  app.import('node_modules/axios/dist/axios.js', {
     using: [
       { transformation: 'cjs', as: 'axios'}
     ]
