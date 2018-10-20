@@ -7,6 +7,13 @@ module.exports = function(defaults) {
     // Add options here
   });
 
+  app.import('node_modules/axios/index.js', {
+    using: [
+      { transformation: 'cjs', as: 'axios'}
+    ]
+  });
+
+
   /*
     This build file specifies the options for the dummy test app of this
     addon, located in `/tests/dummy`
