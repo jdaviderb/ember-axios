@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/jdaviderb/ember-axios.svg?branch=master)](https://travis-ci.org/jdaviderb/ember-axios)[![Maintainability](https://api.codeclimate.com/v1/badges/ef2f919d927c79e445c2/maintainability)](https://codeclimate.com/github/jdaviderb/ember-axios/maintainability)
+
+
 ember-axios
 ==============================================================================
 
@@ -22,7 +25,7 @@ Contributing
 
 ### Installation
 
-* `git clone <repository-url>`
+* `git clone https://github.com/jdaviderb/ember-axios`
 * `cd ember-axios`
 * `npm install`
 
