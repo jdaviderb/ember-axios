@@ -5,7 +5,9 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": {
+    "url": "git@github.com:jdaviderb/ember-axios.git"
+  },
   "license": "MIT",
   "author": "",
   "directories": {
